@@ -1,1 +1,2 @@
-![изображение](https://github.com/user-attachments/assets/e8418728-5b43-46f6-9c79-8e20768f11f3)
+# **Dspoof - script that will help to bypass websites/applications blocked/delayed by roskomnadzor in Russia.**
+![image](https://github.com/user-attachments/assets/f05a29b9-bd39-463a-bcd5-ede028f0173a)
