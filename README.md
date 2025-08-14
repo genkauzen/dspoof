@@ -1,3 +1,4 @@
 ## **Dspoof - скрипт, который поможет обойти сайты/приложения, заблокированные/замедленные Роскомнадзором в России.**
-![image(2)](https://github.com/user-attachments/assets/f7275244-26d2-4a59-b741-b8125bfcdae1)
 Актуальный репозиторий github.com/genkauzen/dspoofSE
+
+![image(2)](https://github.com/user-attachments/assets/f7275244-26d2-4a59-b741-b8125bfcdae1)
