@@ -1,2 +1,2 @@
 # ❌ Не поддерживается
-## https://github.com/genkauzen/octadpi
+## Переезд сюда https://github.com/genkauzen/octadpi
